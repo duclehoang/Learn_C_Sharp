@@ -1,0 +1,15 @@
+E:\Study\Learn_C_Sharp\Bai01\Bai01\bin\Debug\net6.0\Bai01.exe
+E:\Study\Learn_C_Sharp\Bai01\Bai01\bin\Debug\net6.0\Bai01.deps.json
+E:\Study\Learn_C_Sharp\Bai01\Bai01\bin\Debug\net6.0\Bai01.runtimeconfig.json
+E:\Study\Learn_C_Sharp\Bai01\Bai01\bin\Debug\net6.0\Bai01.dll
+E:\Study\Learn_C_Sharp\Bai01\Bai01\bin\Debug\net6.0\Bai01.pdb
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.csproj.AssemblyReference.cache
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.AssemblyInfoInputs.cache
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.AssemblyInfo.cs
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.csproj.CoreCompileInputs.cache
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.dll
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\refint\Bai01.dll
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.pdb
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\Bai01.genruntimeconfig.cache
+E:\Study\Learn_C_Sharp\Bai01\Bai01\obj\Debug\net6.0\ref\Bai01.dll
